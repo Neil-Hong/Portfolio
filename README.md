@@ -1,3 +1,25 @@
+# Introduction
+<p>This website is my personal profolio website.</p>
+
+Website preview: https://6231861f49b3fe77c487f22f--neil-hong-profolio.netlify.app/
+
+It is developed in React framework, decorated by using styled-components CSS.
+
+# Technology Stack
+
+React, JavaScript, styled-components CSS, react-router-dom(V6), react-scroll, react-icon
+
+# Preview
+![image](https://github.com/Neil-Hong/Profolio/blob/main/src/images/preview-1.png)
+![image](https://github.com/Neil-Hong/Profolio/blob/main/src/images/preview-2.png)
+![image](https://github.com/Neil-Hong/Profolio/blob/main/src/images/preview-3.png)
+![image](https://github.com/Neil-Hong/Profolio/blob/main/src/images/preview-4.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
