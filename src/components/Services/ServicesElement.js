@@ -29,10 +29,13 @@ export const ServicesWrapper = styled.div`
     margin-left: auto;
     margin-right: auto;
 
-    @media screen and (max-width: 1645px) {
+    @media screen and (max-width: 1600px) {
+        width: 80%;
+    }
+    @media screen and (max-width: 1350x) {
         width: 90%;
     }
-    @media screen and (max-width: 1279px) {
+    @media screen and (max-width: 1300px) {
         width: 100%;
     }
     @media screen and (max-width: 1151px) {
